@@ -377,12 +377,6 @@ footer {
   pointer-events: none;
 }
 
-/* Hide background logo on small screens */
-@media (max-width: 600px) {
-  .background-logo {
-    display: none;
-  }
-}
 
 /* Photo gallery styles */
 .photo-gallery {
